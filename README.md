@@ -9,3 +9,4 @@ In this project, I have done data merging, data cleaning and data analysis using
 
 # Dashboard
 ![Dashboard 1](https://user-images.githubusercontent.com/107829400/201851641-7ad06125-90f3-4ddc-bab3-72f5c6fc133e.png)
+[Interactive version](https://public.tableau.com/views/AccentureProject_16615963125560/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
