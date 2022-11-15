@@ -8,3 +8,4 @@ Social Buzz is a media company who want:
 In this project, I have done data merging, data cleaning and data analysis using Excel and SQL as well as data visualisation with a dashboard in Tableau. All the files are provided including raw datasets, the final dataset and finally a pdf document which contains SQL code and an explanation of the analytical process.
 
 # Dashboard
+![Dashboard 1](https://user-images.githubusercontent.com/107829400/201851641-7ad06125-90f3-4ddc-bab3-72f5c6fc133e.png)
